@@ -1,0 +1,119 @@
+.jumbotron {
+    background-image: url("img/pariban2.jpg");
+    background-attachment: fixed;
+    color: rgb(184, 199, 186);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    background-size: cover;
+    background-position: 0-50px;
+    height: 1000px;
+    padding-top: 5rem;
+    text-shadow: #fff;
+}
+
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+
+.display-4{
+    color: rgb(0, 226, 207);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.lead{
+    color: rgb(226, 226, 226);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.tabel1 {
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid f2f5f7;
+    margin-top: 50px;
+}
+
+.hargatiket, p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.tabel1, th { 
+    background: #35a9db;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+    padding: top;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.tabel1, td{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#hargatiket, p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+section{
+    padding-top: 5rem;
+}
+
+#galeri{
+    background-color: rgb(144, 149, 151);;
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-attachment: fixed;
+    color: brown;
+}
+
+#galeri, p{
+    color: brown;
+}
+
+
+#Tentang{
+    background-image: url("img/sibayak2.jpg");
+    background-color: rgb(190, 190, 190);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 10x;
+    color: brown;
+}
+
+#col-md-4, p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+
+#hargatiket{
+    background-image: url("img/sibayak2.jpg");
+    background-color: rgb(190, 190, 190);
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-attachment: fixed;
+    color: brown;
+    font-size: 25px;
+}
+
+#alamat{
+    background-image: url("img/sibayak5.jpg");
+    background-color: rgb(134, 134, 134);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    color: brown;
+    font-size: 25px;
+    height: 300px;
+}
+
